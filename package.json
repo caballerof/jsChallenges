@@ -1,0 +1,14 @@
+{
+  "name": "jschallenger",
+  "version": "1.0.0",
+  "description": "JS challengers to practice code habilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chanllege"
+  ],
+  "author": "FJ Caballero",
+  "license": "MIT"
+}

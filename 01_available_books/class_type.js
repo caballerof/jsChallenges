@@ -52,9 +52,12 @@ class Book {
   }
 }
 
-const SongOfIceAndFire = new Book('Games of thrones', 'George R. R. Martin', '123456789');
-console.log(SongOfIceAndFire.availability);
-SongOfIceAndFire.restock(11);
-console.log(SongOfIceAndFire.availability);
-SongOfIceAndFire.sell(2);
-console.log(SongOfIceAndFire.availability);
+// const SongOfIceAndFire = new Book('Games of thrones', 'George R. R. Martin', '123456789');
+// console.log(SongOfIceAndFire.availability);
+// SongOfIceAndFire.restock(11);
+// console.log(SongOfIceAndFire.availability);
+// SongOfIceAndFire.sell(2);
+// console.log(SongOfIceAndFire.availability);
+
+
+module.exports = Book;
